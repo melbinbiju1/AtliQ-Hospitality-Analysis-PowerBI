@@ -47,3 +47,9 @@ Key metrics include:
 ## Interactive Dashboard 🌐
 Explore the interactive dashboard here: **[Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)**.
 
+## Connect with Me 💬
+Feel free to reach out with any questions or to connect further!
+
+- 📫 **Email**: [melbinbiju212330@gmail.com](mailto:melbinbiju212330@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/melbin-biju](https://www.linkedin.com/in/melbin-biju/)
+
