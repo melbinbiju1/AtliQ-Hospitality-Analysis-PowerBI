@@ -8,8 +8,6 @@ This repository contains a business intelligence project developed for **AtliQ G
 - 📈 [Metrics & Insights](#metrics--insights)
 - 🎓 [Key Learnings](#key-learnings)
 - 🌐 [Interactive Dashboard](#interactive-dashboard)
-- 🎥 [Presentation Video](#presentation-video)
-- ⚙️ [Installation Instructions](#installation-instructions)
 
 ## Project Overview 📝
 AtliQ Grands hired a third-party service provider (me) to analyze their historical data and generate insights. The dashboard created in **PowerBI** focuses on key metrics like **revenue**, **occupancy rates**, **cancellation rates**, and more to support data-driven decision-making.
@@ -21,10 +19,10 @@ Here are some visuals of the developed dashboard:
 ![Overall Analysis View](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Resources/overall-view.jpg)
 
 ### **Monthly Analysis View**
-![Monthly Analysis View](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png)
+![Monthly Analysis View](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Resources/monthly-view.jpg)
 
 ### **Mock-Up Dashboard**
-![Mock-Up Dashboard](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png)
+![Mock-Up Dashboard](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Datasets/mock%20up%20dashboard_atliq%20grands.png)
 
 ## Metrics & Insights 📈
 Key metrics include:
