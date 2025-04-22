@@ -47,7 +47,7 @@ Key metrics include:
 - Mastered using **bookmarks and selections** for page navigation in PowerBI.
 
 ## Interactive Dashboard 🌐
-Explore the interactive dashboard here: **[Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)**.
+Explore the interactive dashboard here: **[Interactive Dashboard](https://app.powerbi.com/links/w7DlSSU_UG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)**.
 
 ## Connect with Me 💬
 Feel free to reach out with any questions or to connect further!
