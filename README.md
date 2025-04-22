@@ -1,6 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-This repository contains a business intelligence project developed for **AtliQ Grands**, a chain of five-star hotels in India. The project was completed as part of the **codebasics September Resume Challenge**. It uses PowerBI to analyze historical hotel data and provide actionable insights to help AtliQ Grands regain market share and improve revenue in the luxury and business hotel categories.
+This repository contains a business intelligence project developed for **AtliQ Grands**, a chain of five-star hotels in India. The project was completed as part of the **Codebasics September Resume Challenge**. It uses PowerBI to analyze historical hotel data and provide actionable insights to help AtliQ Grands regain market share and improve revenue in the luxury and business hotel categories.
 
 ## Table of Contents
 - 📝 [Project Overview](#project-overview)
@@ -21,8 +21,8 @@ Here are some visuals of the developed dashboard:
 ### **Monthly Analysis View**
 ![Monthly Analysis View](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Resources/monthly-view.jpg)
 
-### **Mock-Up Dashboard**
-![Mock-Up Dashboard](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Datasets/mock%20up%20dashboard_atliq%20grands.png)
+### **Data Model**
+![Data Model](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Resources/data-model.png)
 
 ## Metrics & Insights 📈
 Key metrics include:
