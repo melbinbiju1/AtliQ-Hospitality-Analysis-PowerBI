@@ -3,11 +3,12 @@
 This repository contains a business intelligence project developed for **AtliQ Grands**, a chain of five-star hotels in India. The project was completed as part of the **Codebasics September Resume Challenge**. It uses PowerBI to analyze historical hotel data and provide actionable insights to help AtliQ Grands regain market share and improve revenue in the luxury and business hotel categories.
 
 ## Table of Contents
-- 📝 [Project Overview](#project-overview)
-- 📊 [Dashboard Preview](#dashboard-preview)
-- 📈 [Metrics & Insights](#metrics--insights)
-- 🎓 [Key Learnings](#key-learnings)
-- 🌐 [Interactive Dashboard](#interactive-dashboard)
+- 📝 [Project Overview](#project-overview-)
+- 📊 [Dashboard Preview](#dashboard-preview-)
+- 📈 [Metrics & Insights](#metrics--insights-)
+- 🎓 [Key Learnings](#key-learnings-)
+- 🌐 [Interactive Dashboard](#interactive-dashboard-)
+- 💬 [Connect with Me](#connect-with-me-)
 
 ## Project Overview 📝
 AtliQ Grands hired a third-party service provider (me) to analyze their historical data and generate insights. The dashboard created in **PowerBI** focuses on key metrics like **revenue**, **occupancy rates**, **cancellation rates**, and more to support data-driven decision-making.
