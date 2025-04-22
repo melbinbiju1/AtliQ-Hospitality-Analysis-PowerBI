@@ -18,7 +18,7 @@ AtliQ Grands hired a third-party service provider (me) to analyze their historic
 Here are some visuals of the developed dashboard:
 
 ### **Overall Analysis View**
-![Overall Analysis View](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png)
+![Overall Analysis View](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI/blob/main/Resources/overall-view.jpg)
 
 ### **Monthly Analysis View**
 ![Monthly Analysis View](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png)
