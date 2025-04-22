@@ -30,12 +30,15 @@ Key metrics include:
 - **Occupancy Rate**
 - **Cancellation Rate**
 - **Hotel Ratings**
+- **Room Type Performance**
 
 ### Key Insights:
 - **Mumbai** generates the highest revenue (669M), followed by **Bangalore** and **Hyderabad**.
 - **AtliQ Exotica** leads with 320M revenue, a 3.62 rating, and 24.4% cancellation rate.
 - **AtliQ Bay** has the highest **occupancy rate** (66%).
 - **Delhi** excels in both **occupancy** and **ratings**.
+- AtliQ lost approximately **298M** in revenue due to cancellations.
+- **Elite type rooms** have the highest bookings but also the highest cancellation rates.
 
 ## Key Learnings 🎓
 - Built a **calendar visual** using a matrix table.
