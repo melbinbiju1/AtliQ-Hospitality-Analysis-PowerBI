@@ -47,11 +47,11 @@ Key metrics include:
 - Mastered using **bookmarks and selections** for page navigation in PowerBI.
 
 ## Interactive Dashboard 🌐
-Explore the interactive dashboard here: **[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjZjM2NhYzctYmUxMy00YzgwLWIwYzEtY2Y1ZjdhNjE0NmFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**.
+Explore the interactive dashboard here: **[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTdlMTMxYWMtZWNkMi00NWM2LTk3ZjMtODQxZTliOTZkZmQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**.
 
 ## Connect with Me 💬
 Feel free to reach out with any questions or to connect further!
 
-- 📫 **Email**: [melbinbiju212330@gmail.com](mailto:melbinbiju212330@gmail.com)  
+- 📫 **Email**: [melbinbiju186@gmail.com](mailto:melbinbiju186@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/melbin-biju](https://www.linkedin.com/in/melbin-biju/)
 
